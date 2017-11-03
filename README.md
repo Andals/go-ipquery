@@ -10,7 +10,7 @@ package main
 import (
     "fmt"
 
-    "andals/go-ipquery"
+    "github.com/andals/go-ipquery"
 )
 
 func main() {
